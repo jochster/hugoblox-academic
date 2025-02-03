@@ -10,4 +10,9 @@ view: card
 image:
   caption: ''
   filename: ''
+
+build:
+  list: never
+  publishResources: false
+  render: never
 ---
