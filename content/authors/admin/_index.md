@@ -3,7 +3,7 @@
 title: Jingyao Su
 
 # Name pronunciation (optional)
-name_pronunciation: 苏靖尧
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Jingyao
@@ -45,8 +45,7 @@ profiles:
     url: https://scholar.google.com/citations?user=A4OTJJ0AAAAJ
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-5086-0178
-  - icon: researchgate
-    icon_pack: fab
+  - icon: academicons/researchgate
     link: https://www.researchgate.net/profile/Jingyao-Su-4
 
 interests:
@@ -149,5 +148,7 @@ education:
 ## About Me
 
 I am working on GNSS research and development. 
+
 My research interests include precise positioning techniques, integrity monitoring methods, multi-sensor fusion, uncertainty modeling and propagation, and interval mathematics.
+
 Please reach out to collaborate 😃
