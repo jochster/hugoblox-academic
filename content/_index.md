@@ -27,7 +27,7 @@ sections:
           filename: nasa-earth-unsplash.jpg
           # stacked-peaks.svg
           filters:
-            brightness: 1.0
+            brightness: 0.7
           size: cover
           position: center
           parallax: false
