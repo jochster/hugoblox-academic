@@ -7,6 +7,11 @@ design:
   # Section spacing
   spacing: '5rem'
 
+build:
+  list: never
+  publishResources: false
+  render: never
+  
 # Page sections
 sections:
   - block: collection
@@ -20,9 +25,4 @@ sections:
       view: article-grid
       fill_image: false
       columns: 3
-
-build:
-  list: never
-  publishResources: false
-  render: never
 ---
