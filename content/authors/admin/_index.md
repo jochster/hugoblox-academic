@@ -62,7 +62,7 @@ education:
     date_start: 2020
     date_end: 
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Ste](https://example.com). with the research training group (RTG) **Integrity and Collaboration in Dynamic Sensor Networks** (i.c.sens, GRK 2159), funded by the German Research Foundation (DFG).
+      Thesis on _Why LLMs are awesome_. Supervised by [Prof Steffen Schön](https://www.ife.uni-hannover.de/en/institute/team/steffen-schoen/). With the research training group (RTG) **Integrity and Collaboration in Dynamic Sensor Networks** (i.c.sens, GRK 2159), funded by the German Research Foundation (DFG).
     button:
       text: ''
       url: ''
@@ -70,7 +70,8 @@ education:
     institution: Technical University of Munich
     date_start: 2017
     date_end: 2020
-    summary: |Master's thesis on *Precise Point Positioning with Ambiguity Resolution for Different GNSS Signals* under the supervision of [Prof. Urs Hugentobler](https://www.asg.ed.tum.de/iapg/espace/lecturers/hugentobler/) and [Dr. Bingbing Duan](https://www.asg.ed.tum.de/iapg/mitarbeiter/duan/)
+    summary: |
+    Master's thesis on *Precise Point Positioning with Ambiguity Resolution for Different GNSS Signals*. Supervided by [Prof. Urs Hugentobler](https://www.asg.ed.tum.de/iapg/espace/lecturers/hugentobler/) and [Dr. Bingbing Duan](https://www.asg.ed.tum.de/iapg/mitarbeiter/duan/)
 # work:
 #   - position: Director of Cloud Infrastructure
 #     company_name: GenCoin
