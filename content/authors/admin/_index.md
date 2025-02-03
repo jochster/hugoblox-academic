@@ -71,7 +71,8 @@ education:
     date_start: 2017
     date_end: 2020
     summary: |
-    Master's thesis on *Precise Point Positioning with Ambiguity Resolution for Different GNSS Signals*. Supervided by [Prof. Urs Hugentobler](https://www.asg.ed.tum.de/iapg/espace/lecturers/hugentobler/) and [Dr. Bingbing Duan](https://www.asg.ed.tum.de/iapg/mitarbeiter/duan/)
+      Thesis on *Precise Point Positioning with Ambiguity Resolution for Different GNSS Signals*. Supervised by [Prof. Urs Hugentobler](https://www.asg.ed.tum.de/iapg/espace/lecturers/hugentobler/) and [Dr. Bingbing Duan](https://www.asg.ed.tum.de/iapg/mitarbeiter/duan/).
+    
 # work:
 #   - position: Director of Cloud Infrastructure
 #     company_name: GenCoin
