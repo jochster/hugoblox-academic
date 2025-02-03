@@ -147,8 +147,8 @@ education:
 
 ## About Me
 
-I am working on GNSS research and development. 
+I specifilize in GNSS navigation with a focus on Assured Position Navigation & Timing (Assured PNT). 
 
-My research interests include precise positioning techniques, integrity monitoring methods, multi-sensor fusion, uncertainty modeling and propagation, and interval mathematics.
+My interests include precise positioning techniques, integrity monitoring methods, multi-sensor fusion, uncertainty modeling and propagation, and interval mathematics.
 
-Please reach out to collaborate 😃
+I welcome opportunities for collaboration. Please feel free to reach out 😃
