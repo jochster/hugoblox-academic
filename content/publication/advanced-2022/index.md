@@ -1,8 +1,7 @@
 ---
 title: Advances in deterministic approaches for bounding uncertainty and
   integrity monitoring of autonomous navigation
-publication_types:
-  - ['paper-conference']
+publication_types: ['paper-conference']
 authors:
   - admin
   - Steffen Schön
