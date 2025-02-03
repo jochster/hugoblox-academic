@@ -2,11 +2,11 @@
 title: Advances in deterministic approaches for bounding uncertainty and
   integrity monitoring of autonomous navigation
 publication_types:
-  - "1"
+  - ['paper-conference']
 authors:
   - admin
-  - schoen
-doi: 10.33012/2022.18418
+  - Steffen Schön
+doi: '10.33012/2022.18418'
 publication: Proceedings of the 35th International Technical Meeting of the
   Satellite Division of The Institute of Navigation (ION GNSS+ 2022)
 publication_short: In *ION GNSS+ 2022*
@@ -35,29 +35,24 @@ tags:
   - uncertainty modeling
   - Multipath effect
   - Fault Detection and Exclusion
-projects:
-  - icsens
-image:
-  filename: featured.png
-  focal_point: Smart
-  preview_only: false
+# projects:
+#  - icsens
+# image:
+#  filename: featured.png
+#  focal_point: Smart
+#  preview_only: false
 summary: "In this contribution, we aim to demonstrate the feasibility of
   applying the alternative integrity approach to autonomous navigation in terms
   of several key aspects, i.e., the handling of GNSS multipath effect in the
   urban environment, fault detection and exclusion, and further consideration of
   applying weighting models. "
-date: 2022-09-20T16:52:00.000Z
+date: '2022-09-20T16:52:00.000Z'
 links:
   - name: Conference
     url: https://www.ion.org/gnss/index.cfm
-    icon_pack: fas
-    icon: book
-  - name: PDF request
+    icon: hero/book-open
+  - name: PDF
     icon_pack: fas
     icon: envelope
     url: mailto:suj@ife.uni-hannover.de
-  - name: ResearchGate
-    url: ""
-    icon_pack: ai
-    icon: researchgate
 ---
