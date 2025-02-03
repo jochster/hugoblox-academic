@@ -47,12 +47,16 @@ summary: "In this contribution, we aim to demonstrate the feasibility of
   urban environment, fault detection and exclusion, and further consideration of
   applying weighting models. "
 date: '2022-09-20T16:52:00.000Z'
+url_pdf: 'mailto:suj@ife.uni-hannover.de'
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
 links:
   - name: Conference
     url: https://www.ion.org/gnss/index.cfm
     icon: hero/book-open
-  - name: PDF
-    icon_pack: fas
-    icon: envelope
-    url: mailto:suj@ife.uni-hannover.de
 ---
