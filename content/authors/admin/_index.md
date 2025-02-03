@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: GNSS R&D Engineer
+role: GNSS Research & Development
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -62,7 +62,7 @@ education:
     date_start: 2020
     date_end: 
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Steffen Schön](https://www.ife.uni-hannover.de/en/institute/team/steffen-schoen/). With the research training group (RTG) **Integrity and Collaboration in Dynamic Sensor Networks** (i.c.sens, GRK 2159), funded by the German Research Foundation (DFG).
+      Thesis on _Towards Autonomous Integrity Monitoring: Interval-based Error Bounding and Uncertainty Propagation_. Supervised by [Prof Steffen Schön](https://www.ife.uni-hannover.de/en/institute/team/steffen-schoen/). With the research training group (RTG) **Integrity and Collaboration in Dynamic Sensor Networks** (i.c.sens, GRK 2159), funded by the German Research Foundation (DFG).
     button:
       text: ''
       url: ''
