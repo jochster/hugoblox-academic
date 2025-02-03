@@ -16,6 +16,8 @@ authors:
 date: '2022-12-24T19:05:41.986Z'
 doi: 'https://doi.org/10.1007/1345_2022_184'
 
+featured: true
+
 # Schedule page publish date (NOT publication's date).
 publishDate: ''
 
