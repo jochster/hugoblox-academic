@@ -24,7 +24,7 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: nasa-earth-unsplash
+          filename: nasa-earth-unsplash.jpg
           # stacked-peaks.svg
           filters:
             brightness: 1.0
