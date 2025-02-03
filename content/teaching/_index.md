@@ -20,4 +20,9 @@ sections:
     design:
       view: article-grid
       columns: 2
+
+build:
+  list: never
+  publishResources: false
+  render: never
 ---
