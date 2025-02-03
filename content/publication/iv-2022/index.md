@@ -46,19 +46,19 @@ abstract: >-
   signal propagation mechanisms and the potential error sources induced by the 
   complex measurement environment should be sufficiently understood. 
 
-In this contribution, we report on recent progress on this topic in our group. 
-We conducted various experiments in urban areas and investigated the behavior and 
-magnitude of GNSS signal propagation errors. To this end, ray tracing algorithms 
-combined with 3D city models are implemented to identify propagation obstructions 
-and quantify propagation errors. A Fresnel zone-based criterion is exploited to 
-determine the occurrence and magnitude of diffraction. GNSS Feature Maps are 
-proposed to visualize the analyses and to predict situations with potential loss 
-of integrity. 
+  In this contribution, we report on recent progress on this topic in our group. 
+  We conducted various experiments in urban areas and investigated the behavior and 
+  magnitude of GNSS signal propagation errors. To this end, ray tracing algorithms 
+  combined with 3D city models are implemented to identify propagation obstructions 
+  and quantify propagation errors. A Fresnel zone-based criterion is exploited to 
+  determine the occurrence and magnitude of diffraction. GNSS Feature Maps are 
+  proposed to visualize the analyses and to predict situations with potential loss 
+  of integrity. 
 
-To measure the integrity of urban navigation, we developed alternative set-based 
-approaches in addition to the classical stochastic approach. Based on interval 
-mathematics and geometrical constraints, they are sufficient to bound remaining 
-systematic uncertainty and feasible for integrity applications.
+  To measure the integrity of urban navigation, we developed alternative set-based 
+  approaches in addition to the classical stochastic approach. Based on interval 
+  mathematics and geometrical constraints, they are sufficient to bound remaining 
+  systematic uncertainty and feasible for integrity applications.
 
 # Summary. An optional shortened abstract.
 summary: For safety critical applications like autonomous driving, high trust in
