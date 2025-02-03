@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 苏靖尧
+title: Jingyao Su
 
 # Name pronunciation (optional)
-name_pronunciation: Su Jing Yao
+name_pronunciation: 苏靖尧
 
 # Full name (for SEO)
 first_name: Jingyao
@@ -45,21 +45,22 @@ profiles:
     url: https://scholar.google.com/citations?user=A4OTJJ0AAAAJ
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-5086-0178
-  - icon: fab/researchgate
+  - icon: researchgate
+    icon_pack: fab
     link: https://www.researchgate.net/profile/Jingyao-Su-4
 
 interests:
   - GNSS navigation
-  - high-precision positioning techniques
+  - precision positioning
   - integrity monitoring methods
   - multi-sensor fusion
-  - uncertainty modeling and propagation
+  - uncertainty modeling 
   - interval mathematics
 
 education:
   - area: Ph.D. Geodesy and Geoinformation
     institution: Leibniz University Hannover
-    date_start: 2020
+    date_start: 
     date_end: 
     summary: |
       Thesis on _Towards Autonomous Integrity Monitoring: Interval-based Error Bounding and Uncertainty Propagation_. Supervised by [Prof Steffen Schön](https://www.ife.uni-hannover.de/en/institute/team/steffen-schoen/). With the research training group (RTG) **Integrity and Collaboration in Dynamic Sensor Networks** (i.c.sens, GRK 2159), funded by the German Research Foundation (DFG).
@@ -68,10 +69,12 @@ education:
       url: ''
   - area: M.Sc Earth Oriented Space Science and Technology (ESPACE)
     institution: Technical University of Munich
-    date_start: 2017
-    date_end: 2020
+    date_start: 
+    date_end: 
     summary: |
       Thesis on *Precise Point Positioning with Ambiguity Resolution for Different GNSS Signals*. Supervised by [Prof. Urs Hugentobler](https://www.asg.ed.tum.de/iapg/espace/lecturers/hugentobler/) and [Dr. Bingbing Duan](https://www.asg.ed.tum.de/iapg/mitarbeiter/duan/).
+  - area: B.Sc Geophysics
+    institution: Wuhan University
     
 # work:
 #   - position: Director of Cloud Infrastructure
@@ -145,5 +148,6 @@ education:
 
 ## About Me
 
-I am working on GNSS research and development. My research interests include high-precision positioning techniques, integrity monitoring methods, multi-sensor fusion, uncertainty modeling and propagation, and interval mathematics.
+I am working on GNSS research and development. 
+My research interests include precise positioning techniques, integrity monitoring methods, multi-sensor fusion, uncertainty modeling and propagation, and interval mathematics.
 Please reach out to collaborate 😃
