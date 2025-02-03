@@ -79,7 +79,7 @@ url_source: ''
 url_video: ''
 links:
   - name: Conference
-    url: ''
+    url: 'https://www.iag2021.com/en/web/index/'
     icon: hero/book-open
 
 # Featured image
