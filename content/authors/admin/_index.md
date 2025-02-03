@@ -33,8 +33,8 @@ profiles:
   - icon: at-symbol
     url: 'mailto:suj@ife.uni-hannover.de'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/jingyao_su
+#  - icon: brands/x
+#    url: https://twitter.com/jingyao_su
  # - icon: brands/instagram
  #   url: https://www.instagram.com/
  # - icon: brands/github
