@@ -14,7 +14,7 @@ authors:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: '2024-09-24T19:05:41.986Z'
+date: '2024-09-19T19:05:41.986Z'
 doi: 'https://doi.org/10.33012/2024.19874'
 
 # Schedule page publish date (NOT publication's date).
@@ -58,8 +58,8 @@ tags:
   - IMU
   - integrity
   - interval mathematics
-  - uncertainty modeling
   - error bounding
+  - stochastic modeling
 
 # Display this page in the Featured widget?
 featured: false
