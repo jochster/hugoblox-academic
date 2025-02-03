@@ -32,4 +32,9 @@ sections:
     content:
       title: Languages
       username: admin
+
+build:
+  list: never
+  publishResources: false
+  render: never
 ---
