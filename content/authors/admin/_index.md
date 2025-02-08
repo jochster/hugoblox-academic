@@ -31,7 +31,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:suj@ife.uni-hannover.de'
+    url: 'mailto:me@jingyao-su.com'
     label: E-mail Me
 #  - icon: brands/x
 #    url: https://twitter.com/jingyao_su
@@ -147,7 +147,7 @@ education:
 
 ## About Me
 
-I specifilize in GNSS navigation with a focus on Assured Position Navigation & Timing (Assured PNT). 
+I specialize in GNSS navigation with a focus on Assured Position Navigation & Timing (Assured PNT). 
 
 My interests include precise positioning techniques, integrity monitoring methods, multi-sensor fusion, uncertainty modeling and propagation, and interval mathematics.
 
